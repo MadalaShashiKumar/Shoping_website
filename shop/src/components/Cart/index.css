@@ -1,0 +1,8 @@
+.cart-img-container {
+    background-color: transparent;
+    width: 70%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

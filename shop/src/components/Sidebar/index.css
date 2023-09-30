@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+
+.slide-container {
+    background-color: transparent;
+    height: 80vh;
+    width: 18%;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+.slide-container li {
+    list-style-type: none;
+    margin: 9px;
+    padding-left: 26px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.slide-container li:hover {
+    color: #0370ff;
+}
+
+.slide-container-heading {
+    margin-bottom: 20px;
+    padding-left: 30px;
+}

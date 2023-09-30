@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.category-container {
+    width: 100%;
+    height: 100vh;
+    background-color: transparent;
+    font-family: 'Nunito', sans-serif;
+}
+
+.category-ul-main-container {
+    display: flex;
+}
+
+.all-products-heading {
+    margin-left: 70px;
+    cursor: pointer;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.all-products-heading:hover {
+    color: #0044ff;
+}
+
+.slide-container1 {
+    background-color: transparent;
+    height: 80vh;
+    width: 12%;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+}

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.product-details-container {
+    list-style-type: none;
+    display: flex;
+    width: 500px;
+    height: 160px;
+    background-color: #f3f3f3;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 5px;
+    margin: 0px 10px 0px 10px;
+}
+
+.product-details-img {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.product-details-img-container {
+    background-color: transparent;
+    width: 45%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.product-details-para {
+    background-color: transparent;
+    width: 55%;
+    padding: 20px 5px 0px 15px;
+}
+
+.product-details-span1 {
+    color: #802c6e;
+    font-weight: 700;
+    margin: 0px 30px 0px 5px;
+}
+
+.product-details-para-para {
+    color: gray;
+}
+
+.product-details-para-para1 {
+    color: #802c6e;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.pro-link {
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+
+.product-details-heading {
+    font-size: 18px;
+}
